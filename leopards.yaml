@@ -12,3 +12,8 @@ members:
 - dango1
 - dango2
 - t2
+<<<<<<< HEAD
+- stash2
+=======
+- stash1
+>>>>>>> 49c39b4 (stash1 적용)
